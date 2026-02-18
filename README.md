@@ -1,6 +1,6 @@
 # Hi, I'm Jacob 👋
 
-🧬 Berkeley, CA | 🌿 Omics & Software Engineer | 🤖 AI Evals & Training Data Generation | 🏆 HHMI Awardee & Berkeley Science Fellow
+🧬 Berkeley, CA | 🌿 Omics & Software Engineer | 🤖 AI Evals & Training Data Generation
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
