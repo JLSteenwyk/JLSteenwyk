@@ -23,7 +23,7 @@
 - 🗜️ [ecomp](https://github.com/JLSteenwyk/ecomp) — evolution-informed lossless compression of multiple sequence alignments
 - 🦬 [plmtogo](https://github.com/JLSteenwyk/plmtogo) — a small protein language model for GO-conditioned protein sequence generation
 
-### 🤖 AI & Automation
+### 🤖 (Semi)Automations
 
 - 📡 [sm_scipresence](https://github.com/JLSteenwyk/sm_scipresence) — automated science communication bot that discovers, curates, and posts bioRxiv preprints with AI-generated summaries
 - 🔗 [cross_poster](https://github.com/JLSteenwyk/cross_poster) — web app for composing and cross-posting to Bluesky, Twitter/X, and LinkedIn simultaneously
