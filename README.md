@@ -13,13 +13,30 @@
 
 ## Active Projects
 
-- ✂️ [ClipKIT](https://github.com/JLSteenwyk/ClipKIT) — a multiple sequence alignment-trimming algorithm for accurate phylogenomic inference
-- 🌳 [PhyKIT](https://github.com/JLSteenwyk/PhyKIT) — a UNIX shell toolkit for processing and analyzing multiple sequence alignments and phylogenies
-- 🎨 [ggpubfigs](https://github.com/JLSteenwyk/ggpubfigs) — colorblind-friendly color palettes and ggplot2 extensions for publication-quality scientific figures
+### 🧬 Genomics & Phylogenomics
+
+- 🪚 [ClipKIT](https://github.com/JLSteenwyk/ClipKIT) — a multiple sequence alignment-trimming algorithm for accurate phylogenomic inference
+- 🌿 [PhyKIT](https://github.com/JLSteenwyk/PhyKIT) — a UNIX shell toolkit for processing and analyzing multiple sequence alignments and phylogenies
 - 🧩 [orthohmm](https://github.com/JLSteenwyk/orthohmm) — improved inference of ortholog groups using Hidden Markov Models
 - 🐟 [orthofisher](https://github.com/JLSteenwyk/orthofisher) — a broadly applicable tool for automated gene identification and retrieval
-- 🔬 [orthosnap](https://github.com/JLSteenwyk/orthosnap) — a tree splitting and pruning algorithm for retrieving single-copy orthologs from gene family trees
+- ✂️ [orthosnap](https://github.com/JLSteenwyk/orthosnap) — a tree splitting and pruning algorithm for retrieving single-copy orthologs from gene family trees
+- 🗜️ [ecomp](https://github.com/JLSteenwyk/ecomp) — evolution-informed lossless compression of multiple sequence alignments
+- 🦬 [plmtogo](https://github.com/JLSteenwyk/plmtogo) — a small protein language model for GO-conditioned protein sequence generation
+
+### 🎨 Data Visualization
+
+- 🌈 [ggpubfigs](https://github.com/JLSteenwyk/ggpubfigs) — colorblind-friendly color palettes and ggplot2 extensions for publication-quality scientific figures
+- 📊 [pypubfigs](https://github.com/JLSteenwyk/pypubfigs) — publication-quality themes and colorblind-friendly palettes for seaborn and matplotlib
+
+### 🤖 AI & Automation
+
+- 📡 [sm_scipresence](https://github.com/JLSteenwyk/sm_scipresence) — automated science communication bot that discovers, curates, and posts bioRxiv preprints with AI-generated summaries
+- 🔗 [cross_poster](https://github.com/JLSteenwyk/cross_poster) — web app for composing and cross-posting to Bluesky, Twitter/X, and LinkedIn simultaneously
+
+### 📜 Legacy Work
+
+- 🔗 [integRATE](https://github.com/JLSteenwyk/integRATE) — a desirability function-based framework for the integration of data
 
 ## Connect
 
-📬 jlsteenwyk@gmail.com · 🦋 [@jlsteenwyk.bsky.social](https://bsky.app/profile/jlsteenwyk.bsky.social) · 🐦 [@JLSteenwyk](https://twitter.com/JLSteenwyk) · 📝 [genomely.substack.com](https://genomely.substack.com)
+📬 jlsteenwyk@gmail.com · 🦋 [@jlsteenwyk.bsky.social](https://bsky.app/profile/jlsteenwyk.bsky.social) · 📡 [@JLSteenwyk](https://twitter.com/JLSteenwyk) · 📝 [genomely.substack.com](https://genomely.substack.com)
