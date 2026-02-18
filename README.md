@@ -17,7 +17,6 @@
 
 - 🪚 [ClipKIT](https://github.com/JLSteenwyk/ClipKIT) — a multiple sequence alignment-trimming algorithm for accurate phylogenomic inference
 - 🌿 [PhyKIT](https://github.com/JLSteenwyk/PhyKIT) — a UNIX shell toolkit for processing and analyzing multiple sequence alignments and phylogenies
-- 🧩 [orthohmm](https://github.com/JLSteenwyk/orthohmm) — improved inference of ortholog groups using Hidden Markov Models
 - 🐟 [orthofisher](https://github.com/JLSteenwyk/orthofisher) — a broadly applicable tool for automated gene identification and retrieval
 - ✂️ [orthosnap](https://github.com/JLSteenwyk/orthosnap) — a tree splitting and pruning algorithm for retrieving single-copy orthologs from gene family trees
 - 🗜️ [ecomp](https://github.com/JLSteenwyk/ecomp) — evolution-informed lossless compression of multiple sequence alignments
@@ -37,6 +36,7 @@
 
 ## 📜 Legacy Work
 
+- 🧩 [orthohmm](https://github.com/JLSteenwyk/orthohmm) — improved inference of ortholog groups using Hidden Markov Models
 - 🔗 [integRATE](https://github.com/JLSteenwyk/integRATE) — a desirability function-based framework for the integration of data
 
 ## Connect
