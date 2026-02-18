@@ -7,7 +7,7 @@
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-> Building open-source tools to make genomics & phylogenomics research faster, more reproducible, and more accessible. HHMI Awardee of the LSRF & Berkeley Science Fellow at UC-Berkeley; previously HHMI Gilliam Fellow at Vanderbilt.
+> Building open-source tools to make genomics & phylogenomics research faster, more reproducible, and more accessible. AI contractor mostly running evals for the life sciences among other things.
 
 🌐 [jlsteenwyk.com](https://jlsteenwyk.com) — blog, publications, and more.
 
