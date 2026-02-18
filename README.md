@@ -1,6 +1,6 @@
 # Hi, I'm Jacob 👋
 
-🧬 Berkeley, CA | 🦠 Omics & Software Engineer | 🏆 HHMI Awardee & Berkeley Science Fellow
+🧬 Berkeley, CA | 🌿 Omics & Software Engineer | 🤖 AI Evals & Training Data Generation | 🏆 HHMI Awardee & Berkeley Science Fellow
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -13,12 +13,12 @@
 
 ## Active Projects
 
-- 🔬 [ClipKIT](https://github.com/JLSteenwyk/ClipKIT) — a multiple sequence alignment-trimming algorithm for accurate phylogenomic inference
+- ✂️ [ClipKIT](https://github.com/JLSteenwyk/ClipKIT) — a multiple sequence alignment-trimming algorithm for accurate phylogenomic inference
 - 🌳 [PhyKIT](https://github.com/JLSteenwyk/PhyKIT) — a UNIX shell toolkit for processing and analyzing multiple sequence alignments and phylogenies
 - 🎨 [ggpubfigs](https://github.com/JLSteenwyk/ggpubfigs) — colorblind-friendly color palettes and ggplot2 extensions for publication-quality scientific figures
 - 🧩 [orthohmm](https://github.com/JLSteenwyk/orthohmm) — improved inference of ortholog groups using Hidden Markov Models
 - 🐟 [orthofisher](https://github.com/JLSteenwyk/orthofisher) — a broadly applicable tool for automated gene identification and retrieval
-- ✂️ [orthosnap](https://github.com/JLSteenwyk/orthosnap) — a tree splitting and pruning algorithm for retrieving single-copy orthologs from gene family trees
+- 🔬 [orthosnap](https://github.com/JLSteenwyk/orthosnap) — a tree splitting and pruning algorithm for retrieving single-copy orthologs from gene family trees
 
 ## Connect
 
