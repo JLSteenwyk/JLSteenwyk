@@ -21,6 +21,7 @@
 - 🐟 [orthofisher](https://github.com/JLSteenwyk/orthofisher) — a broadly applicable tool for automated gene identification and retrieval
 - ✂️ [orthosnap](https://github.com/JLSteenwyk/orthosnap) — a tree splitting and pruning algorithm for retrieving single-copy orthologs from gene family trees
 - 🗜️ [ecomp](https://github.com/JLSteenwyk/ecomp) — evolution-informed lossless compression of multiple sequence alignments
+### AI 🤖
 - 🦬 [plmtogo](https://github.com/JLSteenwyk/plmtogo) — a small protein language model for GO-conditioned protein sequence generation
 
 ### 🤖 (Semi)Automations
