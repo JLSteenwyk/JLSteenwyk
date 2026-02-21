@@ -27,10 +27,10 @@
 
 ### 🤖 (Semi)Automations
 
-- 📡 [sm_scipresence](https://github.com/JLSteenwyk/sm_scipresence) — automated science communication bot that discovers, curates, and posts bioRxiv preprints with AI-generated summaries
+- 📡 [sm_scipresence](https://github.com/JLSteenwyk/sm_scipresence) — automated science communication that posts bioRxiv preprints with AI-generated summaries
 - 📮 [cross_poster](https://github.com/JLSteenwyk/cross_poster) — web app for composing and cross-posting to Bluesky, Twitter/X, and LinkedIn simultaneously
-- 📰 [biotech_business_weekly](https://github.com/JLSteenwyk/biotech_business_weekly) — automated newsletter scraping biotech business news including funding rounds, acquisitions, FDA approvals, and clinical trial results
-- 🧠 [bioai_newsletter](https://github.com/JLSteenwyk/bioai_newsletter) — automated weekly newsletter at the intersection of biology and AI, with AI-powered summaries from curated research and community sources
+- 📰 [biotech_business_weekly](https://github.com/JLSteenwyk/biotech_business_weekly) — automated newsletter scraping for biotech business news
+- 🧠 [bioai_newsletter](https://github.com/JLSteenwyk/bioai_newsletter) — automated weekly newsletter at the intersection of biology and AI, with AI-powered summaries
 
 ### 🎨 Colorblind-friendly Data Visualization
 
