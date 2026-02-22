@@ -24,6 +24,7 @@
 
 ### ✨ AI
 - 🦬 [plmtogo](https://github.com/JLSteenwyk/plmtogo) — a small protein language model for GO-conditioned protein sequence generation
+- 🤹 [agent-skills](https://github.com/JLSteenwyk/agent-skills) - a collection of skills for agents
 
 ### 🤖 (Semi)Automations
 
