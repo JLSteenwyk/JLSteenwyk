@@ -38,6 +38,9 @@
 - 🌈 [ggpubfigs](https://github.com/JLSteenwyk/ggpubfigs) — colorblind-friendly color palettes and ggplot2 extensions for publication-quality scientific figures
 - 📊 [pypubfigs](https://github.com/JLSteenwyk/pypubfigs) — publication-quality themes and colorblind-friendly palettes for seaborn and matplotlib
 
+### 👻 For fun
+- 🌆 [gh-skyline-python](https://github.com/JLSteenwyk/gh-skyline-python) - a Python implementation of gh-skyline
+
 ## 📜 Legacy Work
 
 - 🧩 [orthohmm](https://github.com/JLSteenwyk/orthohmm) — improved inference of ortholog groups using Hidden Markov Models
