@@ -23,8 +23,8 @@
 - 🗜️ [ecomp](https://github.com/JLSteenwyk/ecomp) — evolution-informed lossless compression of multiple sequence alignments
 
 ### ✨ AI
-- 🦬 [plmtogo](https://github.com/JLSteenwyk/plmtogo) — a small protein language model for GO-conditioned protein sequence generation
 - 🤹 [agent-skills](https://github.com/JLSteenwyk/agent-skills) - a collection of skills for agents
+- 🦬 [plmtogo](https://github.com/JLSteenwyk/plmtogo) — a small protein language model for GO-conditioned protein sequence generation
 
 ### 🤖 (Semi)Automations
 
