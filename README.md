@@ -13,7 +13,7 @@
 
 ## Active Projects
 
-### 🧬 Genomics & Phylogenomics
+### 🧬 Biosciences
 
 - ✂️ [ClipKIT](https://github.com/JLSteenwyk/ClipKIT) — a multiple sequence alignment-trimming algorithm for accurate phylogenomic inference
 - 🌿 [PhyKIT](https://github.com/JLSteenwyk/PhyKIT) — a UNIX shell toolkit for processing and analyzing multiple sequence alignments and phylogenies
