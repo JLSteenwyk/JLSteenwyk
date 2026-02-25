@@ -41,6 +41,7 @@
 
 ### 👻 For fun
 - 🌆 [gh-skyline-python](https://github.com/JLSteenwyk/gh-skyline-python) - a Python implementation of gh-skyline
+- [ascii pal](https://github.com/JLSteenwyk/asciipal) - a desktop buddy
 
 ## 📜 Legacy Work
 
