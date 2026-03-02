@@ -21,7 +21,6 @@
 - 🏷️ [GOKIT](https://github.com/JLSteenwyk/gokit) — a command-line toolkit for Gene Ontology enrichment analysis
 - 🐟 [orthofisher](https://github.com/JLSteenwyk/orthofisher) — a broadly applicable tool for automated gene identification and retrieval
 - 🪚 [orthosnap](https://github.com/JLSteenwyk/orthosnap) — a tree splitting and pruning algorithm for retrieving single-copy orthologs from gene family trees
-- 🗜️ [ecomp](https://github.com/JLSteenwyk/ecomp) — evolution-informed lossless compression of multiple sequence alignments
 
 ### ✨ AI
 - 🤹 [agent-skills](https://github.com/JLSteenwyk/agent-skills) — a collection of skills for agents
@@ -30,7 +29,6 @@
 ### 🤖 (Semi)Automations
 
 - 📡 [sm_scipresence](https://github.com/JLSteenwyk/sm_scipresence) — automated science communication that posts bioRxiv preprints with AI-generated summaries
-- 📮 [cross_poster](https://github.com/JLSteenwyk/cross_poster) — web app for composing and cross-posting to Bluesky, Twitter/X, and LinkedIn simultaneously
 - 📰 [biotech_business_weekly](https://github.com/JLSteenwyk/biotech_business_weekly) — automated newsletter scraping for biotech business news
 - 🧠 [bioai_newsletter](https://github.com/JLSteenwyk/bioai_newsletter) — automated weekly newsletter at the intersection of biology and AI, with AI-powered summaries
 
@@ -47,6 +45,8 @@
 
 - 🧩 [orthohmm](https://github.com/JLSteenwyk/orthohmm) — improved inference of ortholog groups using Hidden Markov Models
 - 🔀 [integRATE](https://github.com/JLSteenwyk/integRATE) — a desirability function-based framework for the integration of data
+- 🗜️ [ecomp](https://github.com/JLSteenwyk/ecomp) — evolution-informed lossless compression of multiple sequence alignments
+- 📮 [cross_poster](https://github.com/JLSteenwyk/cross_poster) — web app for composing and cross-posting to Bluesky, Twitter/X, and LinkedIn simultaneously
 
 ## Connect
 
