@@ -47,6 +47,7 @@
 
 - 🧩 [orthohmm](https://github.com/JLSteenwyk/orthohmm) — improved inference of ortholog groups using Hidden Markov Models
 - 🔀 [integRATE](https://github.com/JLSteenwyk/integRATE) — a desirability function-based framework for the integration of data
+- 🏠 [treehouse](https://github.com/JLSteenwyk/treehouse) - a collection of species-level phylogenetic trees
 - 🗜️ [ecomp](https://github.com/JLSteenwyk/ecomp) — evolution-informed lossless compression of multiple sequence alignments
 - 📮 [cross_poster](https://github.com/JLSteenwyk/cross_poster) — web app for composing and cross-posting to Bluesky, Twitter/X, and LinkedIn simultaneously
 
