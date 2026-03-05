@@ -29,8 +29,6 @@
 - 🤹 [agent-skills](https://github.com/JLSteenwyk/agent-skills) — a collection of skills for agents
 
 ### 🤖 (Semi)Automations
-
-- 📡 [sm_scipresence](https://github.com/JLSteenwyk/sm_scipresence) — automated science communication that posts bioRxiv preprints with AI-generated summaries
 - 📰 [biotech_business_weekly](https://github.com/JLSteenwyk/biotech_business_weekly) — automated newsletter scraping for biotech business news
 - 🧠 [bioai_newsletter](https://github.com/JLSteenwyk/bioai_newsletter) — automated weekly newsletter at the intersection of biology and AI, with AI-powered summaries
 
@@ -43,14 +41,19 @@
 - 🌆 [gh-skyline-python](https://github.com/JLSteenwyk/gh-skyline-python) - a Python implementation of gh-skyline
 - 🖥️ [ascii pal](https://github.com/JLSteenwyk/asciipal) - a desktop buddy made of ascii characters
 
+## Connect
+📬 jlsteenwyk@gmail.com · 🦋 [@jlsteenwyk.bsky.social](https://bsky.app/profile/jlsteenwyk.bsky.social) · 📡 [@JLSteenwyk](https://twitter.com/JLSteenwyk) · 📝 [genomely.substack.com](https://genomely.substack.com)
+
+---
+
 ## 📜 Legacy Work
 
+### 🧬 Bioinformatics
 - 🧩 [orthohmm](https://github.com/JLSteenwyk/orthohmm) — improved inference of ortholog groups using Hidden Markov Models
 - 🔀 [integRATE](https://github.com/JLSteenwyk/integRATE) — a desirability function-based framework for the integration of data
 - 🏠 [treehouse](https://github.com/JLSteenwyk/treehouse) - a collection of species-level phylogenetic trees
 - 🗜️ [ecomp](https://github.com/JLSteenwyk/ecomp) — evolution-informed lossless compression of multiple sequence alignments
+
+### 🤖 (Semi)Automations
 - 📮 [cross_poster](https://github.com/JLSteenwyk/cross_poster) — web app for composing and cross-posting to Bluesky, Twitter/X, and LinkedIn simultaneously
-
-## Connect
-
-📬 jlsteenwyk@gmail.com · 🦋 [@jlsteenwyk.bsky.social](https://bsky.app/profile/jlsteenwyk.bsky.social) · 📡 [@JLSteenwyk](https://twitter.com/JLSteenwyk) · 📝 [genomely.substack.com](https://genomely.substack.com)
+- 📡 [sm_scipresence](https://github.com/JLSteenwyk/sm_scipresence) — automated science communication that posts bioRxiv preprints with AI-generated summaries
