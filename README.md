@@ -7,7 +7,7 @@
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-> Tinkering. Open-source biotools. AI evals.
+> Tinkering. Open-source. AI.
 
 🌐 [jlsteenwyk.com](https://jlsteenwyk.com) — blog, publications, and more.
 
