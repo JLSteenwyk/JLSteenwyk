@@ -43,17 +43,3 @@
 
 ## Connect
 📬 jlsteenwyk@gmail.com · 🦋 [@jlsteenwyk.bsky.social](https://bsky.app/profile/jlsteenwyk.bsky.social) · 📡 [@JLSteenwyk](https://twitter.com/JLSteenwyk) · 📝 [genomely.substack.com](https://genomely.substack.com)
-
----
-
-## 📜 Legacy Work
-
-### 🧬 Bioinformatics
-- 🧩 [orthohmm](https://github.com/JLSteenwyk/orthohmm) — improved inference of ortholog groups using Hidden Markov Models
-- 🔀 [integRATE](https://github.com/JLSteenwyk/integRATE) — a desirability function-based framework for the integration of data
-- 🏠 [treehouse](https://github.com/JLSteenwyk/treehouse) - a collection of species-level phylogenetic trees
-- 🗜️ [ecomp](https://github.com/JLSteenwyk/ecomp) — evolution-informed lossless compression of multiple sequence alignments
-
-### 🤖 (Semi)Automations
-- 📮 [cross_poster](https://github.com/JLSteenwyk/cross_poster) — web app for composing and cross-posting to Bluesky, Twitter/X, and LinkedIn simultaneously
-- 📡 [sm_scipresence](https://github.com/JLSteenwyk/sm_scipresence) — automated science communication that posts bioRxiv preprints with AI-generated summaries
