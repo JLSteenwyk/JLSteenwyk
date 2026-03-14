@@ -17,7 +17,7 @@
 - 🌿 [PhyKIT](https://github.com/JLSteenwyk/PhyKIT) — a UNIX shell toolkit for processing and analyzing multiple sequence alignments and phylogenies
 - 🧰 [BioKIT](https://github.com/JLSteenwyk/BioKIT) — a versatile toolkit for processing and analyzing diverse types of sequence data
 - 🏷️ [GOKIT](https://github.com/JLSteenwyk/gokit) — a command-line toolkit for Gene Ontology enrichment analysis
-- 🐟 [orthofisher](https://github.com/JLSteenwyk/orthofisher) — a broadly applicable tool for automated gene identification and retrieval
+- 🎣 [orthofisher](https://github.com/JLSteenwyk/orthofisher) — a broadly applicable tool for automated gene identification and retrieval
 - 🪚 [orthosnap](https://github.com/JLSteenwyk/orthosnap) — a tree splitting and pruning algorithm for retrieving single-copy orthologs from gene family trees
 
 ### 🔬 Bio x AI
