@@ -1,13 +1,11 @@
 
 
-🧬 Bay Area | 🌿 Omics & Software Engineer | 🤖 AI Evals
+🧬 Bay Area | 🌿 Omics & Software Engineer | 🤖 AI Evals | 🌐 [jlsteenwyk.com](https://jlsteenwyk.com)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-🌐 [jlsteenwyk.com](https://jlsteenwyk.com)
 
 ## Active Projects
 
