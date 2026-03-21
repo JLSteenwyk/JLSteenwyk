@@ -9,7 +9,7 @@
 
 ## Active Projects
 
-### 🧬 Bioinformatics
+### 🧬 Bio
 
 - ✂️ [ClipKIT](https://github.com/JLSteenwyk/ClipKIT) - a multiple sequence alignment-trimming algorithm for accurate phylogenomic inference
 - 🌿 [PhyKIT](https://github.com/JLSteenwyk/PhyKIT) - a UNIX shell toolkit for processing and analyzing multiple sequence alignments and phylogenies
@@ -18,11 +18,10 @@
 - 🎣 [orthofisher](https://github.com/JLSteenwyk/orthofisher) - a broadly applicable tool for automated gene identification and retrieval
 - 🪚 [orthosnap](https://github.com/JLSteenwyk/orthosnap) - a tree splitting and pruning algorithm for retrieving single-copy orthologs from gene family trees
 
-### 🔬 Bio x AI
-- 🦬 [plmtogo](https://github.com/JLSteenwyk/plmtogo) - a small protein language model for GO-conditioned protein sequence generation
 
 ### ✨ AI
 - 🤹 [agent-skills](https://github.com/JLSteenwyk/agent-skills) - a collection of skills for agents
+- 🦬 [plmtogo](https://github.com/JLSteenwyk/plmtogo) - a small protein language model for GO-conditioned protein sequence generation
 
 ### 🤖 (Semi)Automations
 - 📰 [biotech_business_weekly](https://github.com/JLSteenwyk/biotech_business_weekly) - automated newsletter scraping for biotech business news
