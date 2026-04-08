@@ -11,7 +11,7 @@
 
 - ✂️ [ClipKIT](https://github.com/JLSteenwyk/ClipKIT) - a multiple sequence alignment-trimming algorithm for accurate phylogenomic inference
 - 🌿 [PhyKIT](https://github.com/JLSteenwyk/PhyKIT) - a UNIX shell toolkit for processing and analyzing multiple sequence alignments and phylogenies
-- 🪐 [ClustKIT](https://github.com/JLSteenwyk/PhyKIT) - accurate clustering of protein sequences
+- 🪐 [ClustKIT](https://github.com/JLSteenwyk/clustkit) - accurate clustering of protein sequences
 - 🧰 [BioKIT](https://github.com/JLSteenwyk/BioKIT) - a versatile toolkit for processing and analyzing diverse types of sequence data
 - 🏷️ [GOKIT](https://github.com/JLSteenwyk/gokit) - a command-line toolkit for Gene Ontology enrichment analysis
 - 🎣 [orthofisher](https://github.com/JLSteenwyk/orthofisher) - a broadly applicable tool for automated gene identification and retrieval
