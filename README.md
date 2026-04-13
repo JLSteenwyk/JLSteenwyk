@@ -36,11 +36,5 @@
 - 🖥️ [ascii pal](https://github.com/JLSteenwyk/asciipal) - a desktop buddy made of ascii characters
 
 ## Connect
-📬 [jlsteenwyk@gmail.com](https://jlsteenwyk.com/contact.html)
-
-🦋 [@jlsteenwyk.bsky.social](https://bsky.app/profile/jlsteenwyk.bsky.social)
-
-📡 [@JLSteenwyk](https://twitter.com/JLSteenwyk)
-
-📝 [genomely.substack.com](https://genomely.substack.com)
+📬 [jlsteenwyk@gmail.com](https://jlsteenwyk.com/contact.html) • 🦋 [@jlsteenwyk.bsky.social](https://bsky.app/profile/jlsteenwyk.bsky.social) • 📡 [@JLSteenwyk](https://twitter.com/JLSteenwyk) • 📝 [genomely.substack.com](https://genomely.substack.com)
 
