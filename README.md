@@ -1,4 +1,4 @@
-🧬 Bay Area | 🌿 Omics / AI / Evo | 🌐 [jlsteenwyk.com](https://jlsteenwyk.com)
+🧬 Bay Area | 🌿 Omics / AI/ML / Evo | 🌐 [jlsteenwyk.com](https://jlsteenwyk.com)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
