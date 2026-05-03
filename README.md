@@ -27,7 +27,6 @@
 - 🧠 [bioai_newsletter](https://github.com/JLSteenwyk/bioai_newsletter) - automated weekly newsletter at the intersection of biology and AI, with AI-powered summaries
 
 ### 🎨 Colorblind-friendly Data Visualization
-
 - 🌈 [ggpubfigs](https://github.com/JLSteenwyk/ggpubfigs) - colorblind-friendly color palettes and ggplot2 extensions for publication-quality scientific figures
 - 📊 [pypubfigs](https://github.com/JLSteenwyk/pypubfigs) - publication-quality themes and colorblind-friendly palettes for seaborn and matplotlib
 
