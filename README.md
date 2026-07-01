@@ -13,7 +13,7 @@
 - 🪚 [orthosnap](https://github.com/JLSteenwyk/orthosnap) - a tree splitting and pruning algorithm for retrieving single-copy orthologs from gene family trees
 
 
-### ✨ AI
+### ✨ AI 
 - 🤹 [agent-skills](https://github.com/JLSteenwyk/agent-skills) - a collection of skills for agents
 - 🦬 [plmtogo](https://github.com/JLSteenwyk/plmtogo) - a small protein language model for GO-conditioned protein sequence generation
 
