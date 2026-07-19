@@ -16,8 +16,8 @@
 - 🦬 [plmtogo](https://github.com/JLSteenwyk/plmtogo) - a small protein language model for GO-conditioned protein sequence generation
 
 ### 🤖 (Semi)Automations
-- 📰 [biotech_business_weekly](https://github.com/JLSteenwyk/biotech_business_weekly) - automated newsletter scraping for biotech business news
-- 🧠 [bioai_newsletter](https://github.com/JLSteenwyk/bioai_newsletter) - automated weekly newsletter at the intersection of biology and AI, with AI-powered summaries
+- 📰 [biotech_business_weekly](https://github.com/JLSteenwyk/biotech_business_weekly) - automated scraping for biotech business news
+- 🧠 [bioai_newsletter](https://github.com/JLSteenwyk/bioai_newsletter) - automated scraping for news at the intersection of biology and AI
 
 ### 🎨 Colorblind-friendly Data Viz
 - 🌈 [ggpubfigs](https://github.com/JLSteenwyk/ggpubfigs) - colorblind-friendly color palettes and ggplot2 extensions for publication-quality scientific figures
