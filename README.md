@@ -19,7 +19,7 @@
 - 📰 [biotech_business_weekly](https://github.com/JLSteenwyk/biotech_business_weekly) - automated scraping for biotech business news
 - 🧠 [bioai_newsletter](https://github.com/JLSteenwyk/bioai_newsletter) - automated scraping for news at the intersection of biology and AI
 
-### 🎨 Colorblind-friendly Data Viz
+### 🎨 Colorblind-friendly Data Visualization 
 - 🌈 [ggpubfigs](https://github.com/JLSteenwyk/ggpubfigs) - colorblind-friendly color palettes and ggplot2 extensions for publication-quality scientific figures
 - 📊 [pypubfigs](https://github.com/JLSteenwyk/pypubfigs) - publication-quality themes and colorblind-friendly palettes for seaborn and matplotlib
 
