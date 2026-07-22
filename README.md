@@ -1,4 +1,4 @@
-🧬 Bay Area | 🌿 Omics/AI | 🌐 [jlsteenwyk.com](https://jlsteenwyk.com)
+🧬 Bay Area | 🌿 Omics / AI | 🌐 [jlsteenwyk.com](https://jlsteenwyk.com)
 
 ## Active Projects
 
