@@ -1,4 +1,4 @@
-🧬 Bay Area | 🌿 AI for Bio | 🌐 [jlsteenwyk.com](https://jlsteenwyk.com)
+🧬 Bay Area | 🌿 AI x Bio | 🌐 [jlsteenwyk.com](https://jlsteenwyk.com)
 
 ## Active Projects
 
