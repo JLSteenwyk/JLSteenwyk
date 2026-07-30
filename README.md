@@ -15,17 +15,21 @@
 - 🤹 [agent-skills](https://github.com/JLSteenwyk/agent-skills) - a collection of skills for agents
 - 🦬 [plmtogo](https://github.com/JLSteenwyk/plmtogo) - a small protein language model for GO-conditioned protein sequence generation
 
+
 ### 🤖 (Semi)Automations
 - 📰 [biotech_business_weekly](https://github.com/JLSteenwyk/biotech_business_weekly) - automated scraping for biotech business news
 - 🧠 [bioai_newsletter](https://github.com/JLSteenwyk/bioai_newsletter) - automated scraping for news at the intersection of biology and AI
+
 
 ### 🎨 Colorblind-friendly Data Visualization 
 - 🌈 [ggpubfigs](https://github.com/JLSteenwyk/ggpubfigs) - colorblind-friendly color palettes and ggplot2 extensions for publication-quality scientific figures
 - 📊 [pypubfigs](https://github.com/JLSteenwyk/pypubfigs) - publication-quality themes and colorblind-friendly palettes for seaborn and matplotlib
 
+
 ### 👻 For fun
 - 🌆 [gh-skyline-python](https://github.com/JLSteenwyk/gh-skyline-python) - a Python implementation of gh-skyline
 - 🖥️ [ascii pal](https://github.com/JLSteenwyk/asciipal) - a desktop buddy made of ascii characters
+
 
 ## Connect
 📬 [jlsteenwyk [at] gmail.com](https://jlsteenwyk.com/contact.html) • 🦋 [@jlsteenwyk.bsky.social](https://bsky.app/profile/jlsteenwyk.bsky.social) • 🐦 [@JLSteenwyk](https://twitter.com/JLSteenwyk) • 📝 [genomely.substack.com](https://genomely.substack.com)
