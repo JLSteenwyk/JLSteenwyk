@@ -27,6 +27,7 @@
 
 
 ### 👻 For fun
+- https://github.com/JLSteenwyk/cyclops
 - 🌆 [gh-skyline-python](https://github.com/JLSteenwyk/gh-skyline-python) - a Python implementation of gh-skyline
 - 🖥️ [ascii pal](https://github.com/JLSteenwyk/asciipal) - a desktop buddy made of ascii characters
 
