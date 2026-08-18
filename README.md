@@ -21,15 +21,15 @@
 - 🧠 [bioai_newsletter](https://github.com/JLSteenwyk/bioai_newsletter) - automated scraping for news at the intersection of biology and AI
 
 
-### 🎨 Colorblind-friendly Data Visualization 
-- 🌈 [ggpubfigs](https://github.com/JLSteenwyk/ggpubfigs) - colorblind-friendly color palettes and ggplot2 extensions for publication-quality scientific figures
-- 📊 [pypubfigs](https://github.com/JLSteenwyk/pypubfigs) - publication-quality themes and colorblind-friendly palettes for seaborn and matplotlib
-
-
 ### 👻 For fun
 - 👁️ [cyclops](https://github.com/JLSteenwyk/cyclops) - a macOS menu bar app that blurs everything except the selected window to help you focus
 - 🌆 [gh-skyline-python](https://github.com/JLSteenwyk/gh-skyline-python) - a Python implementation of gh-skyline
 - 🖥️ [ascii pal](https://github.com/JLSteenwyk/asciipal) - a desktop buddy made of ascii characters
+
+
+### 🎨 Colorblind-friendly Data Visualization 
+- 🌈 [ggpubfigs](https://github.com/JLSteenwyk/ggpubfigs) - colorblind-friendly color palettes and ggplot2 extensions for publication-quality scientific figures
+- 📊 [pypubfigs](https://github.com/JLSteenwyk/pypubfigs) - publication-quality themes and colorblind-friendly palettes for seaborn and matplotlib
 
 
 ## Connect
