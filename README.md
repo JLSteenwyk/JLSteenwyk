@@ -4,7 +4,7 @@
 
 ### 🧬 Bio
 
-- ✂️ [ClipKIT](https://github.com/JLSteenwyk/ClipKIT) - a multiple sequence alignment-trimming algorithm for accurate phylogenomic inference
+- ✂️ [ClipKIT](https://github.com/JLSteenwyk/ClipKIT) - a multiple sequence alignment-trimming algorithm for phylogenomics
 - 🌿 [PhyKIT](https://github.com/JLSteenwyk/PhyKIT) - a UNIX shell toolkit for processing and analyzing multiple sequence alignments and phylogenies
 - 🧰 [BioKIT](https://github.com/JLSteenwyk/BioKIT) - a versatile toolkit for processing and analyzing diverse types of sequence data
 - 🎣 [orthofisher](https://github.com/JLSteenwyk/orthofisher) - a broadly applicable tool for automated gene identification and retrieval
