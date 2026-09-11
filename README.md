@@ -9,6 +9,7 @@
 - 🧰 [BioKIT](https://github.com/JLSteenwyk/BioKIT) - a versatile toolkit for processing and analyzing diverse types of sequence data
 - 🎣 [orthofisher](https://github.com/JLSteenwyk/orthofisher) - a broadly applicable tool for automated gene identification and retrieval
 - 🪚 [orthosnap](https://github.com/JLSteenwyk/orthosnap) - a tree splitting and pruning algorithm for retrieving single-copy orthologs from gene family trees
+- 🔎 [orthohmm](https://github.com/JLSteenwyk/orthohmm) - inference of ortholog groups using hidden Markov models
 
 
 ### ✨ AI
