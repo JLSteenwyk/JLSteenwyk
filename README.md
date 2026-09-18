@@ -16,8 +16,6 @@
 - 🤹 [agent-skills](https://github.com/JLSteenwyk/agent-skills) - a collection of skills for agents
 - 🦬 [plmtogo](https://github.com/JLSteenwyk/plmtogo) - a small protein language model for GO-conditioned protein sequence generation
 - 🎼 [capo](https://github.com/JLSteenwyk/capo) - a management system to turn multiple AI subscriptions into a team of agents (in progress)
-
-### 🤖 (Semi)Automations
 - 📰 [biotech_business_weekly](https://github.com/JLSteenwyk/biotech_business_weekly) - automated scraping for biotech business news
 - 🧠 [bioai_newsletter](https://github.com/JLSteenwyk/bioai_newsletter) - automated scraping for news at the intersection of biology and AI
 
