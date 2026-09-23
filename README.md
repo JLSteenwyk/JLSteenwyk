@@ -23,7 +23,7 @@
 ### 👻 For fun
 - 👁️ [cyclops](https://github.com/JLSteenwyk/cyclops) - a focus app that blurs everything except the selected window
 - 🌆 [gh-skyline-python](https://github.com/JLSteenwyk/gh-skyline-python) - a Python implementation of gh-skyline
-- 🖥️ [ascii pal](https://github.com/JLSteenwyk/asciipal) - a desktop buddy made of ascii characters
+- 📍 [whereami-shell](https://github.com/JLSteenwyk/whereami-shell) - shows which machine you're on in your shell prompt
 - 🖨️ [3d printing](https://github.com/JLSteenwyk/3d-printing) - misc 3d printing projects
 
 
